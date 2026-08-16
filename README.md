@@ -98,7 +98,7 @@ Additional evaluation includes:
 - component ablation
 - Mann-Whitney U testing
 - Spearman correlation with prediction confidence
-- 
+  
 ## Repository Structure
 
 ```text
@@ -111,5 +111,4 @@ Trust-Aware-XAI-Disease-Prediction/
 ├── requirements.txt
 │
 └── .gitignore
-## Repository Structure
-
+```
